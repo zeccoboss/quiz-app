@@ -355,23 +355,23 @@ function saveData() {
 }
 
 
-// Check if there are no questions available
-if (correctAnswers.length === 0) {
-    const questionSection = document.querySelector('.tip');
-    questionSection.innerHTML = '';
+// // Check if there are no questions available
+// if (correctAnswers.length === 0) {
+//     const questionSection = document.querySelector('.tip');
+//     questionSection.innerHTML = '';
 
-    questionSection.innerHTML = `
-        <h2>Attention!</h2>
-        <p class="result__details__wrong">No questions available for this category</p>
-        <div class="result__buttons">
-            <button class="result__buttons__button" id="home">Home</button>
-        </div>
-    `;        
+//     questionSection.innerHTML = `
+//         <h2>Attention!</h2>
+//         <p class="result__details__wrong">No questions available for this category</p>
+//         <div class="result__buttons">
+//             <button class="result__buttons__button" id="home">Home</button>
+//         </div>
+//     `;        
 
-    // Add event listeners to the buttons
-    const home = questionSection.querySelector('#home');
-    home.addEventListener('click', () => {
-        window.location.href = "index.html";
-    });
+//     // Add event listeners to the buttons
+//     const home = questionSection.querySelector('#home');
+//     home.addEventListener('click', () => {
+//         window.location.href = "index.html";
+//     });
     
-}
+// }

@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following is an example of a simile?",
+        "options": [
+            "The world is a stage",
+            "As brave as a lion",
+            "Time is money",
+            "The wind whispered through the trees"
+        ],
+        "answer": "As brave as a lion"
+    },
+    {
+        "id": 2,
+        "question": "What is the main theme of George Orwell's '1984'?",
+        "options": [
+            "Love and romance",
+            "Totalitarianism and surveillance",
+            "Adventure and exploration",
+            "Friendship and loyalty"
+        ],
+        "answer": "Totalitarianism and surveillance"
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is a synonym for 'abundant'?",
+        "options": [
+            "Scarce",
+            "Plentiful",
+            "Rare",
+            "Insufficient"
+        ],
+        "answer": "Plentiful"
+    },
+    {
+        "id": 4,
+        "question": "What is the literary device used when an inanimate object is given human characteristics?",
+        "options": [
+            "Metaphor",
+            "Simile",
+            "Personification",
+            "Hyperbole"
+        ],
+        "answer": "Personification"
+    },
+    {
+        "id": 5,
+        "question": "Which of the following is an example of an oxymoron?",
+        "options": [
+            "Jumbo shrimp",
+            "Sweet sorrow",
+            "Deafening silence",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 6,
+        "question": "What is the primary purpose of a persuasive essay?",
+        "options": [
+            "To inform the reader",
+            "To entertain the reader",
+            "To convince the reader of a particular viewpoint",
+            "To describe a process"
+        ],
+        "answer": "To convince the reader of a particular viewpoint"
+    },
+    {
+        "id": 7,
+        "question": "Which of the following is a characteristic of a haiku?",
+        "options": [
+            "It has 14 lines",
+            "It follows a 5-7-5 syllable pattern",
+            "It is written in free verse",
+            "It uses rhyme and meter"
+        ],
+        "answer": "It follows a 5-7-5 syllable pattern"
+    },
+    {
+        "id": 8,
+        "question": "What is the term for a word that has the same meaning as another word?",
+        "options": [
+            "Antonym",
+            "Homonym",
+            "Synonym",
+            "Acronym"
+        ],
+        "answer": "Synonym"
+    },
+    {
+        "id": 9,
+        "question": "Which of the following is an example of a metaphor?",
+        "options": [
+            "The stars danced in the sky",
+            "He is as strong as an ox",
+            "The classroom was a zoo",
+            "She sings like an angel"
+        ],
+        "answer": "The classroom was a zoo"
+    },
+    {
+        "id": 10,
+        "question": "What is the main purpose of a narrative essay?",
+        "options": [
+            "To describe a process",
+            "To tell a story",
+            "To provide information",
+            "To argue a point"
+        ],
+        "answer": "To tell a story"
+    },
+    {
+        "id": 11,
+        "question": "Which of the following is an example of alliteration?",
+        "options": [
+            "Peter Piper picked a peck of pickled peppers",
+            "She sells seashells by the seashore",
+            "Both A and B",
+            "None of the above"
+        ],
+        "answer": "Both A and B"
+    },
+    {
+        "id": 12,
+        "question": "What is the term for a comparison using 'like' or 'as'?",
+        "options": [
+            "Metaphor",
+            "Simile",
+            "Personification",
+            "Hyperbole"
+        ],
+        "answer": "Simile"
+    },
+    {
+        "id": 13,
+        "question": "Which of the following is an example of hyperbole?",
+        "options": [
+            "I'm so hungry I could eat a horse",
+            "The leaves danced in the wind",
+            "She is as busy as a bee",
+            "The sun smiled down on us"
+        ],
+        "answer": "I'm so hungry I could eat a horse"
+    },
+    {
+        "id": 14,
+        "question": "What is the main purpose of an expository essay?",
+        "options": [
+            "To entertain the reader",
+            "To describe a process",
+            "To inform the reader",
+            "To argue a point"
+        ],
+        "answer": "To inform the reader"
+    },
+    {
+        "id": 15,
+        "question": "Which of the following is an example of a homophone?",
+        "options": [
+            "Their, there, they're",
+            "To, too, two",
+            "Both A and B",
+            "None of the above"
+        ],
+        "answer": "Both A and B"
+    },
+    {
+        "id": 16,
+        "question": "What is the term for the repetition of consonant sounds at the beginning of words?",
+        "options": [
+            "Assonance",
+            "Consonance",
+            "Alliteration",
+            "Onomatopoeia"
+        ],
+        "answer": "Alliteration"
+    },
+    {
+        "id": 17,
+        "question": "Which of the following is an example of onomatopoeia?",
+        "options": [
+            "Buzz",
+            "Whisper",
+            "Both A and B",
+            "None of the above"
+        ],
+        "answer": "Both A and B"
+    },
+    {
+        "id": 18,
+        "question": "What is the main purpose of a descriptive essay?",
+        "options": [
+            "To tell a story",
+            "To describe a person, place, or thing",
+            "To provide information",
+            "To argue a point"
+        ],
+        "answer": "To describe a person, place, or thing"
+    },
+    {
+        "id": 19,
+        "question": "Which of the following is an example of a palindrome?",
+        "options": [
+            "Racecar",
+            "Level",
+            "Both A and B",
+            "None of the above"
+        ],
+        "answer": "Both A and B"
+    },
+    {
+        "id": 20,
+        "question": "What is the term for a word that imitates the sound it represents?",
+        "options": [
+            "Metaphor",
+            "Simile",
+            "Onomatopoeia",
+            "Hyperbole"
+        ],
+        "answer": "Onomatopoeia"
+    }
+]

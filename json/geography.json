@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "Which country has the longest coastline in the world?",
+        "options": [
+            "Australia",
+            "Canada",
+            "Russia",
+            "United States"
+        ],
+        "answer": "Canada"
+    },
+    {
+        "id": 2,
+        "question": "What is the capital city of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "id": 3,
+        "question": "Which river is the longest in the world?",
+        "options": [
+            "Amazon River",
+            "Nile River",
+            "Yangtze River",
+            "Mississippi River"
+        ],
+        "answer": "Nile River"
+    },
+    {
+        "id": 4,
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara Desert",
+            "Arabian Desert",
+            "Gobi Desert",
+            "Antarctic Desert"
+        ],
+        "answer": "Antarctic Desert"
+    },
+    {
+        "id": 5,
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "South Korea",
+            "Thailand"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "id": 6,
+        "question": "Which mountain range is the longest in the world?",
+        "options": [
+            "Rocky Mountains",
+            "Andes Mountains",
+            "Himalayas",
+            "Alps"
+        ],
+        "answer": "Andes Mountains"
+    },
+    {
+        "id": 7,
+        "question": "Which ocean is the largest by surface area?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "id": 8,
+        "question": "Which country has the most natural lakes?",
+        "options": [
+            "United States",
+            "Canada",
+            "Russia",
+            "Brazil"
+        ],
+        "answer": "Canada"
+    },
+    {
+        "id": 9,
+        "question": "Which continent is the driest?",
+        "options": [
+            "Africa",
+            "Australia",
+            "Antarctica",
+            "Asia"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "id": 10,
+        "question": "Which is the smallest country in the world by land area?",
+        "options": [
+            "Monaco",
+            "San Marino",
+            "Vatican City",
+            "Liechtenstein"
+        ],
+        "answer": "Vatican City"
+    },
+    {
+        "id": 11,
+        "question": "Which river flows through the Grand Canyon?",
+        "options": [
+            "Colorado River",
+            "Missouri River",
+            "Mississippi River",
+            "Rio Grande"
+        ],
+        "answer": "Colorado River"
+    },
+    {
+        "id": 12,
+        "question": "Which country is the largest by land area?",
+        "options": [
+            "Canada",
+            "China",
+            "United States",
+            "Russia"
+        ],
+        "answer": "Russia"
+    },
+    {
+        "id": 13,
+        "question": "Which city is known as the 'City of Canals'?",
+        "options": [
+            "Amsterdam",
+            "Venice",
+            "Bangkok",
+            "Stockholm"
+        ],
+        "answer": "Venice"
+    },
+    {
+        "id": 14,
+        "question": "Which continent has the most countries?",
+        "options": [
+            "Asia",
+            "Africa",
+            "Europe",
+            "South America"
+        ],
+        "answer": "Africa"
+    },
+    {
+        "id": 15,
+        "question": "Which country is the largest producer of coffee in the world?",
+        "options": [
+            "Colombia",
+            "Vietnam",
+            "Ethiopia",
+            "Brazil"
+        ],
+        "answer": "Brazil"
+    },
+    {
+        "id": 16,
+        "question": "Which is the highest waterfall in the world?",
+        "options": [
+            "Niagara Falls",
+            "Victoria Falls",
+            "Angel Falls",
+            "Yosemite Falls"
+        ],
+        "answer": "Angel Falls"
+    },
+    {
+        "id": 17,
+        "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+        "options": [
+            "Norway",
+            "Sweden",
+            "Finland",
+            "Iceland"
+        ],
+        "answer": "Finland"
+    },
+    {
+        "id": 18,
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Greenland",
+            "New Guinea",
+            "Borneo",
+            "Madagascar"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "id": 19,
+        "question": "Which country is the largest producer of tea in the world?",
+        "options": [
+            "India",
+            "China",
+            "Sri Lanka",
+            "Kenya"
+        ],
+        "answer": "China"
+    },
+    {
+        "id": 20,
+        "question": "Which is the longest river in Asia?",
+        "options": [
+            "Ganges River",
+            "Yangtze River",
+            "Mekong River",
+            "Yellow River"
+        ],
+        "answer": "Yangtze River"
+    }
+]

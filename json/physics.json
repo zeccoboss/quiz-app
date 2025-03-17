@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "What is the speed of light in a vacuum?",
+        "options": [
+            "3.00 x 10^8 m/s",
+            "3.00 x 10^6 m/s",
+            "3.00 x 10^5 m/s",
+            "3.00 x 10^7 m/s"
+        ],
+        "answer": "3.00 x 10^8 m/s"
+    },
+    {
+        "id": 2,
+        "question": "Which of the following particles is not found in the nucleus of an atom?",
+        "options": [
+            "Proton",
+            "Neutron",
+            "Electron",
+            "Quark"
+        ],
+        "answer": "Electron"
+    },
+    {
+        "id": 3,
+        "question": "What is the unit of electrical resistance?",
+        "options": [
+            "Volt",
+            "Ohm",
+            "Ampere",
+            "Watt"
+        ],
+        "answer": "Ohm"
+    },
+    {
+        "id": 4,
+        "question": "Which law states that the force between two charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them?",
+        "options": [
+            "Newton's First Law",
+            "Coulomb's Law",
+            "Faraday's Law",
+            "Gauss's Law"
+        ],
+        "answer": "Coulomb's Law"
+    },
+    {
+        "id": 5,
+        "question": "What is the phenomenon where light bends as it passes from one medium to another?",
+        "options": [
+            "Reflection",
+            "Refraction",
+            "Diffraction",
+            "Interference"
+        ],
+        "answer": "Refraction"
+    },
+    {
+        "id": 6,
+        "question": "Which of the following is a scalar quantity?",
+        "options": [
+            "Velocity",
+            "Force",
+            "Acceleration",
+            "Energy"
+        ],
+        "answer": "Energy"
+    },
+    {
+        "id": 7,
+        "question": "What is the first law of thermodynamics?",
+        "options": [
+            "Energy cannot be created or destroyed, only transformed",
+            "The entropy of an isolated system always increases",
+            "For every action, there is an equal and opposite reaction",
+            "The force between two charges is inversely proportional to the square of the distance between them"
+        ],
+        "answer": "Energy cannot be created or destroyed, only transformed"
+    },
+    {
+        "id": 8,
+        "question": "What is the term for the resistance of an object to a change in its state of motion?",
+        "options": [
+            "Inertia",
+            "Momentum",
+            "Force",
+            "Energy"
+        ],
+        "answer": "Inertia"
+    },
+    {
+        "id": 9,
+        "question": "Which of the following is the correct formula for calculating kinetic energy?",
+        "options": [
+            "KE = mv^2",
+            "KE = 1/2 mv^2",
+            "KE = 1/2 mv",
+            "KE = mv"
+        ],
+        "answer": "KE = 1/2 mv^2"
+    },
+    {
+        "id": 10,
+        "question": "What is the name of the effect where a change in frequency or wavelength of a wave is observed due to the relative motion between the source and the observer?",
+        "options": [
+            "Doppler Effect",
+            "Photoelectric Effect",
+            "Compton Effect",
+            "Zeeman Effect"
+        ],
+        "answer": "Doppler Effect"
+    },
+    {
+        "id": 11,
+        "question": "Which of the following is a fundamental force in nature?",
+        "options": [
+            "Gravitational Force",
+            "Electromagnetic Force",
+            "Strong Nuclear Force",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 12,
+        "question": "What is the term for the amount of space an object occupies?",
+        "options": [
+            "Mass",
+            "Density",
+            "Volume",
+            "Weight"
+        ],
+        "answer": "Volume"
+    },
+    {
+        "id": 13,
+        "question": "Which of the following is an example of a transverse wave?",
+        "options": [
+            "Sound wave",
+            "Water wave",
+            "Seismic P-wave",
+            "Seismic S-wave"
+        ],
+        "answer": "Seismic S-wave"
+    },
+    {
+        "id": 14,
+        "question": "What is the term for the rate of change of velocity?",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Momentum",
+            "Force"
+        ],
+        "answer": "Acceleration"
+    },
+    {
+        "id": 15,
+        "question": "Which of the following is the correct formula for calculating the gravitational force between two masses?",
+        "options": [
+            "F = G(m1m2)/r^2",
+            "F = G(m1m2)/r",
+            "F = G(m1m2)r^2",
+            "F = G(m1m2)r"
+        ],
+        "answer": "F = G(m1m2)/r^2"
+    },
+    {
+        "id": 16,
+        "question": "What is the term for the energy stored in an object due to its position or configuration?",
+        "options": [
+            "Kinetic Energy",
+            "Thermal Energy",
+            "Potential Energy",
+            "Mechanical Energy"
+        ],
+        "answer": "Potential Energy"
+    },
+    {
+        "id": 17,
+        "question": "Which of the following is a unit of power?",
+        "options": [
+            "Joule",
+            "Watt",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Watt"
+    },
+    {
+        "id": 18,
+        "question": "What is the term for the bending of waves around obstacles or through openings?",
+        "options": [
+            "Reflection",
+            "Refraction",
+            "Diffraction",
+            "Interference"
+        ],
+        "answer": "Diffraction"
+    },
+    {
+        "id": 19,
+        "question": "Which of the following is the correct formula for calculating work done?",
+        "options": [
+            "W = Fd",
+            "W = Fd^2",
+            "W = F/d",
+            "W = F/d^2"
+        ],
+        "answer": "W = Fd"
+    },
+    {
+        "id": 20,
+        "question": "What is the term for the force that opposes the relative motion of two surfaces in contact?",
+        "options": [
+            "Tension",
+            "Normal Force",
+            "Friction",
+            "Centripetal Force"
+        ],
+        "answer": "Friction"
+    }
+]

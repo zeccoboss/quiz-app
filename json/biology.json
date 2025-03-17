@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "What is the primary purpose of crop rotation in agriculture?",
+        "options": [
+            "To increase the yield of a single crop",
+            "To reduce soil erosion",
+            "To improve soil fertility and reduce pest and disease buildup",
+            "To maximize the use of chemical fertilizers"
+        ],
+        "answer": "To improve soil fertility and reduce pest and disease buildup"
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is a leguminous crop?",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Soybean",
+            "Maize"
+        ],
+        "answer": "Soybean"
+    },
+    {
+        "id": 3,
+        "question": "What is the process of converting atmospheric nitrogen into a form usable by plants called?",
+        "options": [
+            "Photosynthesis",
+            "Nitrogen fixation",
+            "Respiration",
+            "Transpiration"
+        ],
+        "answer": "Nitrogen fixation"
+    },
+    {
+        "id": 4,
+        "question": "Which of the following is a method of soil conservation?",
+        "options": [
+            "Overgrazing",
+            "Deforestation",
+            "Terracing",
+            "Monoculture"
+        ],
+        "answer": "Terracing"
+    },
+    {
+        "id": 5,
+        "question": "What is the main advantage of using organic fertilizers over chemical fertilizers?",
+        "options": [
+            "They are cheaper",
+            "They provide immediate nutrients to plants",
+            "They improve soil structure and increase microbial activity",
+            "They are easier to apply"
+        ],
+        "answer": "They improve soil structure and increase microbial activity"
+    },
+    {
+        "id": 6,
+        "question": "Which of the following is a common pest of cotton plants?",
+        "options": [
+            "Aphids",
+            "Boll weevil",
+            "Cutworm",
+            "Armyworm"
+        ],
+        "answer": "Boll weevil"
+    },
+    {
+        "id": 7,
+        "question": "What is the term for the practice of growing two or more crops in proximity?",
+        "options": [
+            "Monoculture",
+            "Intercropping",
+            "Agroforestry",
+            "Hydroponics"
+        ],
+        "answer": "Intercropping"
+    },
+    {
+        "id": 8,
+        "question": "Which of the following is a micronutrient essential for plant growth?",
+        "options": [
+            "Nitrogen",
+            "Phosphorus",
+            "Potassium",
+            "Zinc"
+        ],
+        "answer": "Zinc"
+    },
+    {
+        "id": 9,
+        "question": "What is the main purpose of using cover crops in agriculture?",
+        "options": [
+            "To increase crop yield",
+            "To reduce soil erosion and improve soil health",
+            "To attract pollinators",
+            "To provide food for livestock"
+        ],
+        "answer": "To reduce soil erosion and improve soil health"
+    },
+    {
+        "id": 10,
+        "question": "Which of the following is a method of irrigation that conserves water?",
+        "options": [
+            "Flood irrigation",
+            "Sprinkler irrigation",
+            "Drip irrigation",
+            "Surface irrigation"
+        ],
+        "answer": "Drip irrigation"
+    },
+    {
+        "id": 11,
+        "question": "What is the term for the cultivation of aquatic organisms such as fish and shellfish?",
+        "options": [
+            "Aquaponics",
+            "Hydroponics",
+            "Aquaculture",
+            "Mariculture"
+        ],
+        "answer": "Aquaculture"
+    },
+    {
+        "id": 12,
+        "question": "Which of the following is a benefit of conservation tillage?",
+        "options": [
+            "Increased soil erosion",
+            "Reduced water infiltration",
+            "Improved soil structure and reduced erosion",
+            "Increased fuel consumption"
+        ],
+        "answer": "Improved soil structure and reduced erosion"
+    },
+    {
+        "id": 13,
+        "question": "What is the main function of mycorrhizal fungi in agriculture?",
+        "options": [
+            "Fixing atmospheric nitrogen",
+            "Decomposing organic matter",
+            "Forming symbiotic relationships with plant roots to enhance nutrient uptake",
+            "Producing antibiotics"
+        ],
+        "answer": "Forming symbiotic relationships with plant roots to enhance nutrient uptake"
+    },
+    {
+        "id": 14,
+        "question": "Which of the following is a characteristic of sustainable agriculture?",
+        "options": [
+            "High dependence on chemical inputs",
+            "Monoculture cropping systems",
+            "Maintaining soil health and reducing environmental impact",
+            "Maximizing short-term profits"
+        ],
+        "answer": "Maintaining soil health and reducing environmental impact"
+    },
+    {
+        "id": 15,
+        "question": "What is the term for the genetic modification of crops to enhance desirable traits?",
+        "options": [
+            "Selective breeding",
+            "Hybridization",
+            "Genetic engineering",
+            "Cross-pollination"
+        ],
+        "answer": "Genetic engineering"
+    },
+    {
+        "id": 16,
+        "question": "Which of the following is a common disease of wheat caused by a fungus?",
+        "options": [
+            "Rust",
+            "Blight",
+            "Wilt",
+            "Mosaic"
+        ],
+        "answer": "Rust"
+    },
+    {
+        "id": 17,
+        "question": "What is the main purpose of using green manure in agriculture?",
+        "options": [
+            "To provide immediate nutrients to plants",
+            "To improve soil fertility and structure",
+            "To control weeds",
+            "To attract pollinators"
+        ],
+        "answer": "To improve soil fertility and structure"
+    },
+    {
+        "id": 18,
+        "question": "Which of the following is a method of pest control that uses natural predators?",
+        "options": [
+            "Chemical control",
+            "Biological control",
+            "Mechanical control",
+            "Cultural control"
+        ],
+        "answer": "Biological control"
+    },
+    {
+        "id": 19,
+        "question": "What is the term for the practice of growing crops without synthetic pesticides or fertilizers?",
+        "options": [
+            "Conventional farming",
+            "Organic farming",
+            "Hydroponic farming",
+            "Intensive farming"
+        ],
+        "answer": "Organic farming"
+    },
+    {
+        "id": 20,
+        "question": "Which of the following is a benefit of crop diversification?",
+        "options": [
+            "Increased risk of pest and disease outbreaks",
+            "Reduced soil fertility",
+            "Enhanced resilience to environmental stresses",
+            "Decreased biodiversity"
+        ],
+        "answer": "Enhanced resilience to environmental stresses"
+    }
+]

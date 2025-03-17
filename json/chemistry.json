@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "What is the electron configuration of a neutral atom of chlorine?",
+        "options": [
+            "1s2 2s2 2p6 3s2 3p5",
+            "1s2 2s2 2p6 3s2 3p6",
+            "1s2 2s2 2p6 3s2 3p4",
+            "1s2 2s2 2p6 3s2 3p3"
+        ],
+        "answer": "1s2 2s2 2p6 3s2 3p5"
+    },
+    {
+        "id": 2,
+        "question": "Which of the following compounds is an example of an ionic compound?",
+        "options": [
+            "H2O",
+            "NaCl",
+            "CO2",
+            "CH4"
+        ],
+        "answer": "NaCl"
+    },
+    {
+        "id": 3,
+        "question": "What is the molecular geometry of methane (CH4)?",
+        "options": [
+            "Linear",
+            "Trigonal planar",
+            "Tetrahedral",
+            "Bent"
+        ],
+        "answer": "Tetrahedral"
+    },
+    {
+        "id": 4,
+        "question": "What is the main type of intermolecular force present in liquid ammonia (NH3)?",
+        "options": [
+            "London dispersion forces",
+            "Dipole-dipole interactions",
+            "Hydrogen bonding",
+            "Ionic bonding"
+        ],
+        "answer": "Hydrogen bonding"
+    },
+    {
+        "id": 5,
+        "question": "Which of the following elements has the highest electronegativity?",
+        "options": [
+            "Fluorine",
+            "Oxygen",
+            "Nitrogen",
+            "Chlorine"
+        ],
+        "answer": "Fluorine"
+    },
+    {
+        "id": 6,
+        "question": "What is the balanced chemical equation for the combustion of ethane (C2H6)?",
+        "options": [
+            "2C2H6 + 7O2 -> 4CO2 + 6H2O",
+            "C2H6 + 3.5O2 -> 2CO2 + 3H2O",
+            "C2H6 + 2O2 -> 2CO + 3H2O",
+            "C2H6 + 5O2 -> 2CO2 + 3H2O"
+        ],
+        "answer": "2C2H6 + 7O2 -> 4CO2 + 6H2O"
+    },
+    {
+        "id": 7,
+        "question": "What is the pH of a 0.01 M solution of hydrochloric acid (HCl)?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "id": 8,
+        "question": "Which of the following is a characteristic of a strong acid?",
+        "options": [
+            "It has a high pH",
+            "It completely dissociates in water",
+            "It partially dissociates in water",
+            "It has a low concentration of hydrogen ions"
+        ],
+        "answer": "It completely dissociates in water"
+    },
+    {
+        "id": 9,
+        "question": "What is the oxidation state of sulfur in sulfuric acid (H2SO4)?",
+        "options": [
+            "+2",
+            "+4",
+            "+6",
+            "-2"
+        ],
+        "answer": "+6"
+    },
+    {
+        "id": 10,
+        "question": "What is the hybridization of the central atom in carbon dioxide (CO2)?",
+        "options": [
+            "sp",
+            "sp2",
+            "sp3",
+            "sp3d"
+        ],
+        "answer": "sp"
+    },
+    {
+        "id": 11,
+        "question": "Which of the following is an example of a Lewis acid?",
+        "options": [
+            "NH3",
+            "H2O",
+            "BF3",
+            "CH4"
+        ],
+        "answer": "BF3"
+    },
+    {
+        "id": 12,
+        "question": "What is the standard enthalpy change of formation (ΔHf°) for water (H2O) in its liquid state?",
+        "options": [
+            "-285.8 kJ/mol",
+            "-241.8 kJ/mol",
+            "-298.2 kJ/mol",
+            "-237.1 kJ/mol"
+        ],
+        "answer": "-285.8 kJ/mol"
+    },
+    {
+        "id": 13,
+        "question": "Which of the following is a correct statement about the kinetic molecular theory of gases?",
+        "options": [
+            "Gas particles are in constant, random motion",
+            "Gas particles attract each other strongly",
+            "Gas particles have significant volume",
+            "Gas particles lose energy during collisions"
+        ],
+        "answer": "Gas particles are in constant, random motion"
+    },
+    {
+        "id": 14,
+        "question": "What is the name of the process in which a solid changes directly into a gas?",
+        "options": [
+            "Condensation",
+            "Sublimation",
+            "Deposition",
+            "Melting"
+        ],
+        "answer": "Sublimation"
+    },
+    {
+        "id": 15,
+        "question": "Which of the following is an example of a colligative property?",
+        "options": [
+            "Boiling point elevation",
+            "Density",
+            "Viscosity",
+            "Surface tension"
+        ],
+        "answer": "Boiling point elevation"
+    },
+    {
+        "id": 16,
+        "question": "What is the main product of the reaction between an acid and a base?",
+        "options": [
+            "Salt and water",
+            "Carbon dioxide and water",
+            "Hydrogen gas and water",
+            "Oxygen gas and water"
+        ],
+        "answer": "Salt and water"
+    },
+    {
+        "id": 17,
+        "question": "Which of the following is a characteristic of a covalent bond?",
+        "options": [
+            "It involves the sharing of electron pairs between atoms",
+            "It involves the transfer of electrons from one atom to another",
+            "It is typically formed between a metal and a nonmetal",
+            "It results in the formation of ions"
+        ],
+        "answer": "It involves the sharing of electron pairs between atoms"
+    },
+    {
+        "id": 18,
+        "question": "What is the name of the compound with the chemical formula K2SO4?",
+        "options": [
+            "Potassium sulfate",
+            "Potassium sulfide",
+            "Potassium sulfite",
+            "Potassium sulfane"
+        ],
+        "answer": "Potassium sulfate"
+    },
+    {
+        "id": 19,
+        "question": "Which of the following is a property of a metallic bond?",
+        "options": [
+            "It involves the delocalization of electrons",
+            "It is formed between two nonmetals",
+            "It is directional in nature",
+            "It results in the formation of discrete molecules"
+        ],
+        "answer": "It involves the delocalization of electrons"
+    },
+    {
+        "id": 20,
+        "question": "What is the name of the process in which a liquid changes into a solid?",
+        "options": [
+            "Freezing",
+            "Condensation",
+            "Evaporation",
+            "Sublimation"
+        ],
+        "answer": "Freezing"
+    }
+]

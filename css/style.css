@@ -181,14 +181,6 @@ body {
     position: relative;
 }
 
-.content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-}
-
 .heading-one {
     position: absolute;
     display: inline-block;
@@ -487,6 +479,14 @@ body {
         justify-self: center;
         width: 95%;
         height: 400px;
+    }
+    
+    .content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
     }
 
     /* Restructure page on smaller screen */

@@ -14,9 +14,9 @@ menu();
 let currentQuestion = 0;
 let interval; // Timer reference
 let correctAnswers = []; // Store correct answers
-let finalResult = [];
+let finalResult = []; 
 let category = "Geography";
-
+                                           
 // Get the timer elements
 const hours = document.querySelector('.hours');
 const minutes = document.querySelector('.minutes');
